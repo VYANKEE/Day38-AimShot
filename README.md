@@ -1,4 +1,4 @@
-# 🎯 Day 38:45 Days Coding Challenge Cyber Aim - Neural Reflex Trainer
+# 🎯 Day 38 : 45 Days Coding Challenge Cyber Aim - Neural Reflex Trainer
 
 > **A high-performance reflex training simulation built to demonstrate complex state management and 60FPS animations in React.**
 
